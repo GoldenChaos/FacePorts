@@ -12,6 +12,8 @@ Feel free to buy me a coffee whilst I finish up this page: https://paypal.me/gol
 
 # Meridian - 42mm
 
+# Noir Gradient I, II, and III Fullscreen - 42mm
+
 # Fire and Water Fullscreen - 42mm
 
 # Vapor Fullscreen - 42mm
