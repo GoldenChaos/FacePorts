@@ -1,10 +1,11 @@
 # FacePorts
+<img src="https://github.com/GoldenChaos/FacePorts/raw/main/cool-photo.png">
 
 Clockology ports of all the watch faces that Apple withholds from certain watch models. More faces will be added over time.
 
 Use these faces frequently? Feel free to buy me a coffee: https://paypal.me/goldenchaos
 
-# Latest Release: [FacePorts v1.0](https://github.com/GoldenChaos/FacePorts/releases/download/v1.0/All_Faces_42mm.zip)
+# Latest Release: [FacePorts v1.0 - All Faces](https://github.com/GoldenChaos/FacePorts/releases/download/v1.0/All_Faces_42mm.zip)
 
 ## How to Use
 1. Download [Clockology]() from the App Store.
