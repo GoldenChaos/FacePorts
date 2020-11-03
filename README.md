@@ -30,10 +30,12 @@ Use these faces frequently? Feel free to buy me a coffee: https://paypal.me/gold
 Completely redrawn for the 42mm display. Custom corner superellipse matches the shape of the Series 2 and 3 watch case. Alternate dials and complications can be enabled by editing the face in Clockology. In 14 colors.
 
 ### Symbols
-<img src="https://github.com/GoldenChaos/FacePorts/raw/main/Screenshots/California%20Fullscreen%2042mm/California%20Fullscreen%2042mm%20-%20Black%20-%20California.png" width="156">
-<img src="https://github.com/GoldenChaos/FacePorts/raw/main/Screenshots/California%20Fullscreen%2042mm/California%20Fullscreen%2042mm%20-%20Black%20-%20Arabic.png" width="156">
-<img src="https://github.com/GoldenChaos/FacePorts/raw/main/Screenshots/California%20Fullscreen%2042mm/California%20Fullscreen%2042mm%20-%20Black%20-%20Roman.png" width="156">
-<img src="https://github.com/GoldenChaos/FacePorts/raw/main/Screenshots/California%20Fullscreen%2042mm/California%20Fullscreen%2042mm%20-%20Black%20-%20Pills.png" width="156">
+<p align="left">
+	<img src="https://github.com/GoldenChaos/FacePorts/raw/main/Screenshots/California%20Fullscreen%2042mm/California%20Fullscreen%2042mm%20-%20Black%20-%20California.png" width="156">
+	<img src="https://github.com/GoldenChaos/FacePorts/raw/main/Screenshots/California%20Fullscreen%2042mm/California%20Fullscreen%2042mm%20-%20Black%20-%20Arabic.png" width="156">
+	<img src="https://github.com/GoldenChaos/FacePorts/raw/main/Screenshots/California%20Fullscreen%2042mm/California%20Fullscreen%2042mm%20-%20Black%20-%20Roman.png" width="156">
+	<img src="https://github.com/GoldenChaos/FacePorts/raw/main/Screenshots/California%20Fullscreen%2042mm/California%20Fullscreen%2042mm%20-%20Black%20-%20Pills.png" width="156">
+</p>
 
 ### Colors
 <img src="https://github.com/GoldenChaos/FacePorts/raw/main/Screenshots/California%20Fullscreen%2042mm/California%20Fullscreen%2042mm%20-%20Dark%20Titanium.png" width="156">
