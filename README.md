@@ -17,17 +17,17 @@ Use these faces frequently? Feel free to buy me a coffee: https://paypal.me/gold
 6. To change dials or complications, simply edit the face using Clockology. There are tons of additional dials and complications on every face that you can enable/disable!
 
 # Available FacePorts
-- [California Fullscreen](#california-fullscreen-download-42mm) (42mm)
-- [Fire and Water Fullscreen](#fire-and-water-fullscreen-download-42mm) (42mm)
-- [Gradient Noir Fullscreen](#gradient-noir-fullscreen-download-42mm) (42mm)
-- [Infograph](#infograph-download-42mm) (42mm)
-- [Liquid Metal Fullscreen](#liquid-metal-fullscreen-download-42mm) (42mm)
-- [Meridian](#meridian-download-42mm) (42mm)
-- [Typograph I](#typograph-i-download-42mm) (42mm)
-- [Typograph II](#typograph-ii-download-42mm) (42mm)
-- [Vapor Fullscreen](#vapor-fullscreen-download-42mm) (42mm)
+- [California Fullscreen](#california-fullscreen-download-42mm) (42mm/38mm)
+- [Fire and Water Fullscreen](#fire-and-water-fullscreen-download-42mm) (42mm/38mm)
+- [Gradient Noir Fullscreen](#gradient-noir-fullscreen-download-42mm) (42mm/38mm)
+- [Infograph](#infograph-download-42mm) (42mm/38m)
+- [Liquid Metal Fullscreen](#liquid-metal-fullscreen-download-42mm) (42mm/38mm)
+- [Meridian](#meridian-download-42mm) (42mm/38mm)
+- [Typograph I](#typograph-i-download-42mm) (42mm/38mm)
+- [Typograph II](#typograph-ii-download-42mm) (42mm/38mm)
+- [Vapor Fullscreen](#vapor-fullscreen-download-42mm) (42mm/38mm)
 
-## California Fullscreen (Download: [42mm](https://github.com/GoldenChaos/FacePorts/releases/download/v1.0/California_Fullscreen_42mm.zip))
+## California Fullscreen (Download: [42mm/38mm](https://github.com/GoldenChaos/FacePorts/releases/download/v1.0/California_Fullscreen_42mm.zip))
 Completely redrawn for the 42mm display. Custom corner superellipse matches the shape of the Series 2 and 3 watch case. Alternate dials and complications can be enabled by editing the face in Clockology. In 14 colors.
 
 ### Symbols
@@ -56,7 +56,7 @@ Completely redrawn for the 42mm display. Custom corner superellipse matches the 
 	<img src="https://github.com/GoldenChaos/FacePorts/raw/main/Screenshots/California%20Fullscreen%2042mm/California%20Fullscreen%2042mm%20-%20Watermelon.png" width="156">
 </p>
 
-## Fire and Water Fullscreen (Download: [42mm](https://github.com/GoldenChaos/FacePorts/releases/download/v1.0/Fire_and_Water_Fullscreen_42mm.zip))
+## Fire and Water Fullscreen (Download: [42mm/38mm](https://github.com/GoldenChaos/FacePorts/releases/download/v1.0/Fire_and_Water_Fullscreen_42mm.zip))
 Official Apple video assets. Custom corner superellipse matches the shape of the Series 2 and 3 watch case. Alternate dials can be enabled by editing the face in Clockology.
 
 <p align="left">
@@ -64,7 +64,7 @@ Official Apple video assets. Custom corner superellipse matches the shape of the
 	<img src="https://github.com/GoldenChaos/FacePorts/raw/main/Screenshots/Fire%20and%20Water%20Fullscreen%2042mm/Fire%20and%20Water%20Fullscreen%2042mm%20-%20Water.png" width="156">
 </p>
 
-## Gradient Noir Fullscreen (Download: [42mm](https://github.com/GoldenChaos/FacePorts/releases/download/v1.0/Gradient_Noir_Fullscreen_42mm.zip))
+## Gradient Noir Fullscreen (Download: [42mm/38mm](https://github.com/GoldenChaos/FacePorts/releases/download/v1.0/Gradient_Noir_Fullscreen_42mm.zip))
 Branding-free in 3 styles. Custom corner superellipse matches the shape of the Series 2 and 3 watch case. *(Hermes version coming separately!)*
 
 <p align="left">
@@ -73,7 +73,7 @@ Branding-free in 3 styles. Custom corner superellipse matches the shape of the S
 	<img src="https://github.com/GoldenChaos/FacePorts/raw/main/Screenshots/Gradient%20Fullscreen%2042mm/Gradient%20III%20Fullscreen%2042mm%20-%20Noir.png" width="156">
 </p>
 
-## Infograph (Download: [42mm](https://github.com/GoldenChaos/FacePorts/releases/download/v1.0/Infograph_42mm.zip))
+## Infograph (Download: [42mm/38mm](https://github.com/GoldenChaos/FacePorts/releases/download/v1.0/Infograph_42mm.zip))
 Completely redrawn for the 42mm display. Functional circular and corner complications and gauges. Dial ticks can be selectively disabled to make room for text on the bezel. Alternate dials and complications can be enabled by editing the face in Clockology.
 
 <p align="left">
@@ -81,7 +81,7 @@ Completely redrawn for the 42mm display. Functional circular and corner complica
 	<img src="https://github.com/GoldenChaos/FacePorts/raw/main/Screenshots/Infograph%2042mm/Infograph%2042mm%20-%20Black.png" width="156">
 </p>
 
-## Liquid Metal Fullscreen (Download: [42mm](https://github.com/GoldenChaos/FacePorts/releases/download/v1.0/Liquid_Metal_Fullscreen_42mm.zip))
+## Liquid Metal Fullscreen (Download: [42mm/38mm](https://github.com/GoldenChaos/FacePorts/releases/download/v1.0/Liquid_Metal_Fullscreen_42mm.zip))
 Official Apple video assets. Custom corner superellipse matches the shape of the Series 2 and 3 watch case.
 
 <p align="left">
@@ -90,7 +90,7 @@ Official Apple video assets. Custom corner superellipse matches the shape of the
 	<img src="https://github.com/GoldenChaos/FacePorts/raw/main/Screenshots/Liquid%20Metal%20Fullscreen%2042mm/Liquid%20Metal%20Fullscreen%2042mm%20-%20Black.png" width="156">
 </p>
 
-## Meridian (Download: [42mm](https://github.com/GoldenChaos/FacePorts/releases/download/v1.0/Meridian_42mm.zip))
+## Meridian (Download: [42mm/38mm](https://github.com/GoldenChaos/FacePorts/releases/download/v1.0/Meridian_42mm.zip))
 Completely redrawn for the 42mm display. Functional circular complications. Custom corner superellipse matches the shape of the Series 2 and 3 watch case. Alternate complications can be enabled by editing the face in Clockology.
 
 <p align="left">
@@ -98,7 +98,7 @@ Completely redrawn for the 42mm display. Functional circular complications. Cust
 	<img src="https://github.com/GoldenChaos/FacePorts/raw/main/Screenshots/Meridian%2042mm/Meridian%2042mm%20-%20Black.png" width="156">
 </p>
 
-## Typograph I (Download: [42mm](https://github.com/GoldenChaos/FacePorts/releases/download/v1.0/Typograph_I_42mm.zip))
+## Typograph I (Download: [42mm/38mm](https://github.com/GoldenChaos/FacePorts/releases/download/v1.0/Typograph_I_42mm.zip))
 6 dial symbol options - Arabic Classic, Arabic Modern, Arabic Rounded, Roman Classic, Roman Modern, and Roman Rounded. In 14 colors.
 
 ### Symbols
@@ -129,7 +129,7 @@ Completely redrawn for the 42mm display. Functional circular complications. Cust
 	<img src="https://github.com/GoldenChaos/FacePorts/raw/main/Screenshots/Typograph%20I%2042mm/Typograph%20I%2042mm%20-%20Watermelon.png" width="156">
 </p>
 
-## Typograph II (Download: [42mm](https://github.com/GoldenChaos/FacePorts/releases/download/v1.0/Typograph_II_42mm.zip))
+## Typograph II (Download: [42mm/38mm](https://github.com/GoldenChaos/FacePorts/releases/download/v1.0/Typograph_II_42mm.zip))
 6 dial symbol options - Arabic Classic, Arabic Modern, Arabic Rounded, Roman Classic, Roman Modern, and Roman Rounded. Circular complication slot not included in Apple's official face. In 14 colors.
 
 ### Symbols
@@ -160,7 +160,7 @@ Completely redrawn for the 42mm display. Functional circular complications. Cust
 	<img src="https://github.com/GoldenChaos/FacePorts/raw/main/Screenshots/Typograph%20II%2042mm/Typograph%20II%2042mm%20-%20Watermelon.png" width="156">
 </p>
 
-## Vapor Fullscreen (Download: [42mm](https://github.com/GoldenChaos/FacePorts/releases/download/v1.0/Vapor_Fullscreen_42mm.zip))
+## Vapor Fullscreen (Download: [42mm/38mm](https://github.com/GoldenChaos/FacePorts/releases/download/v1.0/Vapor_Fullscreen_42mm.zip))
 Official Apple video assets. Custom corner superellipse matches the shape of the Series 2 and 3 watch case.
 
 <p align="left">
