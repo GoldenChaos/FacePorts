@@ -17,15 +17,15 @@ Use these faces frequently? Feel free to buy me a coffee: https://paypal.me/gold
 6. To change dials or complications, simply edit the face using Clockology. There are tons of additional dials and complications on every face that you can enable/disable!
 
 # Available FacePorts
-- [California Fullscreen](#california-fullscreen-download-42mm) (42mm/38mm)
-- [Fire and Water Fullscreen](#fire-and-water-fullscreen-download-42mm) (42mm/38mm)
-- [Gradient Noir Fullscreen](#gradient-noir-fullscreen-download-42mm) (42mm/38mm)
-- [Infograph](#infograph-download-42mm) (42mm/38m)
-- [Liquid Metal Fullscreen](#liquid-metal-fullscreen-download-42mm) (42mm/38mm)
-- [Meridian](#meridian-download-42mm) (42mm/38mm)
-- [Typograph I](#typograph-i-download-42mm) (42mm/38mm)
-- [Typograph II](#typograph-ii-download-42mm) (42mm/38mm)
-- [Vapor Fullscreen](#vapor-fullscreen-download-42mm) (42mm/38mm)
+- [California Fullscreen](#california-fullscreen-download-42mm38mm) (42mm/38mm)
+- [Fire and Water Fullscreen](#fire-and-water-fullscreen-download-42mm38mm) (42mm/38mm)
+- [Gradient Noir Fullscreen](#gradient-noir-fullscreen-download-42mm38mm) (42mm/38mm)
+- [Infograph](#infograph-download-42mm38mm) (42mm/38mm)
+- [Liquid Metal Fullscreen](#liquid-metal-fullscreen-download-42mm38mm) (42mm/38mm)
+- [Meridian](#meridian-download-42mm38mm) (42mm/38mm)
+- [Typograph I](#typograph-i-download-42mm38mm) (42mm/38mm)
+- [Typograph II](#typograph-ii-download-42mm38mm) (42mm/38mm)
+- [Vapor Fullscreen](#vapor-fullscreen-download-42mm38mm) (42mm/38mm)
 
 ## California Fullscreen (Download: [42mm/38mm](https://github.com/GoldenChaos/FacePorts/releases/download/v1.0/California_Fullscreen_42mm.zip))
 Completely redrawn for the 42mm display. Custom corner superellipse matches the shape of the Series 2 and 3 watch case. Alternate dials and complications can be enabled by editing the face in Clockology. In 14 colors.
